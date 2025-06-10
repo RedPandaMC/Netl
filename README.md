@@ -2,8 +2,6 @@
   <img src="assets/logo/netl_logo_light.svg" alt="Netl Logo" width="200" />
 </p>
 
-<h1 align="center">Netl</h1>
-
 <p align="center">
   A node-based ETL pipeline builder powered by Polars - designed to be fast, flexible, and user-friendly.
 </p>
