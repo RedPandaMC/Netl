@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/netl_logo_light.svg" alt="Netl Logo" width="200" />
+  <img src="assets/logo/netl_logo.svg" alt="Netl Logo" width="200" />
 </p>
 
 <p align="center">
